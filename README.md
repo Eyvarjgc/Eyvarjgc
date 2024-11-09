@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I like to create beautiful websites and creative projects ;)
 
-* 🧠  I'm currently learning React
+* 🧠  I'm currently learning React and working on a To do list app 
 
 ### Skills
 
