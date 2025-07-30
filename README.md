@@ -8,7 +8,7 @@ challenge my skills.<br>
 #### Exploring new exciting languagues and ideas   <br>
 #### Building fullstack applications  <br>
 ---
-**Check out what Im [currently working][https://github.com/Eyvarjgc/Book-Log]** 
+**Check out what Im [currently working](https://github.com/Eyvarjgc/Book-Log)** 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eyvar-gonzalez-63865a219/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/eyvar31) 
