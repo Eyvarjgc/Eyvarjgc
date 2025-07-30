@@ -1,11 +1,14 @@
 # 💫 About Me:
-I'm a graphic designer with 4 years of experience and<br> a self-taught programmer passionate about creating <br>aesthetic and functional websites. I don’t like those <br>conventional websites. instead, I love <br>to build web applications bringing exciting ideas to life and <br>challenge my skills.<br><br>I love turning  creative concepts into digital experiences.
+I'm a graphic designer student and a self-taught programmer passionate about creating aesthetic and functional websites. <br> 
+I don’t like those conventional websites. instead, I love to build web applications bringing exciting ideas to life and <br> 
+challenge my skills.<br> 
+#### I love turning  creative concepts into digital experiences.
 
 ## 💡What I'm up to : <br> 
 #### Exploring new exciting languagues and ideas   <br>
 #### Building fullstack applications  <br>
 ---
-- **Check out what Im [currently working][https://github.com/Eyvarjgc/Book-Log]** 
+**Check out what Im [currently working][https://github.com/Eyvarjgc/Book-Log]** 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eyvar-gonzalez-63865a219/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/eyvar31) 
