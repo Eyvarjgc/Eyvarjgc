@@ -1,5 +1,4 @@
 # 💫 About Me:
-I'm a graphic designer student and a self-taught programmer passionate about creating aesthetic and functional websites. <br> 
 I love to build web applications bringing exciting ideas to life challenging my skills.<br> 
 
 ## 💡What I'm up to : <br> 
