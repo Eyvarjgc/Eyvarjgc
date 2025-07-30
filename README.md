@@ -1,5 +1,3 @@
-# 💫 About Me:
-I love to build web applications bringing exciting ideas to life challenging my skills.<br> 
 
 ## 💡What I'm up to : <br> 
 #### Exploring new languagues and exciting ideas   <br>
