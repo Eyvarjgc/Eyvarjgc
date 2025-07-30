@@ -1,13 +1,11 @@
 # 💫 About Me:
 I'm a graphic designer student and a self-taught programmer passionate about creating aesthetic and functional websites. <br> 
-I don’t like those conventional websites. instead, I love to build web applications bringing exciting ideas to life and <br> 
-challenge my skills.<br> 
-#### I love turning  creative concepts into digital experiences.
+I love to build web applications bringing exciting ideas to life challenging my skills.<br> 
 
 ## 💡What I'm up to : <br> 
-#### Exploring new exciting languagues and ideas   <br>
+#### Exploring new languagues and exciting ideas   <br>
 #### Building fullstack applications  <br>
----
+
 **Check out what Im [currently working](https://github.com/Eyvarjgc/Book-Log)** 
 
 ## 🌐 Socials:
