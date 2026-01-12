@@ -3,7 +3,7 @@
 #### Exploring new languagues and exciting ideas   <br>
 #### Building fullstack applications  <br>
 
-**Check out my  [latest project]([https://github.com/Eyvarjgc/Book-Log](https://habzen.vercel.app/home))** 
+**Check out my  [latest project]([[https://github.com/Eyvarjgc/Book-Log](https://habzen.vercel.app/home)])** 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eyvar-gonzalez-63865a219/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/eyvar31) 
